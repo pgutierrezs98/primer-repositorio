@@ -9,3 +9,4 @@
 ## Repositorio remoto (en GitHub)
 
 1. `git push origin main` o `git push <repositorio-remoto> <rama-para-enviar>` envía los cambios desde el repositorio local al remoto
+2. `git checkout -- nombredelarchivo.html/js/css` devuelve la versión del archivo seleccionado a la última que fue guardada en GitHub
