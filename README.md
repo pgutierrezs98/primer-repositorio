@@ -19,4 +19,3 @@
 ## Qué pasa si me arrepiento? Opción 2
 
 1. `git restore <nombre-archivo>`
-2.
